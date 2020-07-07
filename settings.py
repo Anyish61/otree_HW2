@@ -32,7 +32,7 @@ USE_POINTS = True
 ROOMS = [
     dict(
         name='otreeHW2',
-        display_name='otreeHW2',
+        display_name='廖信雅',
         participant_label_file='_rooms/otreeHW2.txt',
     ),
 ]
